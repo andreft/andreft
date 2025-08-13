@@ -14,7 +14,7 @@
 
 💻 +10 de Años de experiencia en Gestión de Procesos ITIL y unos cuantos años de experiencia en el proceso de desarrollo de Apps Web, Juegos Indie y Multimedia. 
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 Roles en el ámbito: desarrollador... líder... gestor... coordinador... emprendedor... programador freelance... ☺️ 
 
 📫 Contacto: **andreft999@gmail.com**
 <!--Intro end-->
