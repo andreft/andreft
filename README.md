@@ -1,4 +1,5 @@
-<h1 align="center">Hola 👋  soy Anderson Mesa / Gestor de Procesos ITIL - Desarrollador Indie ✨ </h1> 
+<h1 align="center">Hola 👋 <br>
+  Soy Anderson Mesa / Gestor de Procesos ITIL - Desarrollador Indie  </h1> 
 
 <p align="left">
   <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
